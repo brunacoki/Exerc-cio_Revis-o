@@ -1,0 +1,89 @@
+header {
+    width: 100%;
+    line-height: 100%;
+    top: 0;
+    right: 0;
+    left: 0;
+    color: white;
+    border-bottom: 2px solid black;
+    background: #94c6e6;
+    z-index: 2;
+    padding-top: 100px;
+    padding-bottom: 40px;
+    padding: 0;
+  }
+
+.cabecalho {
+    padding-top: 35px;
+}
+.logo {
+      float: left;
+  }
+  
+header ul a {
+   text-decoration: none;
+}
+
+.Sessão1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14px;
+
+}
+
+.Sessão2 ul{
+    list-style-type:none;
+    color: white;
+    background: #94c6e6;
+    border-radius: 1px 5px;
+    
+    }
+
+.Sessão2 ol  {
+    list-style-type:none;
+    color: black  ;
+    background: grey  ;
+    border-radius: 1px 5px;
+    }
+
+.Sessão2 ul :hover {
+    background: rgb(157, 238, 161);
+    color: rgb(243, 61, 61);
+}
+
+.Sessão2 ol :hover {
+    background: rgb(243, 61, 61);
+    color: rgb(157, 238, 161);
+}
+
+.Sessão3 {
+
+     font-weight: bold;
+}
+
+input:hover {
+    background: rgb(157, 238, 161);
+}
+
+.Sessão4 {
+    border: black;
+}
+
+.Sessão4 th {
+    background: black;
+    color: white;
+}
+
+.Sessão4 td {
+    background: grey;
+    color: black;
+    font-weight: bold;
+
+}
+
+.rodape {
+    background: grey;
+    color: white;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration:underline;
+}
